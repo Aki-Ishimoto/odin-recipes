@@ -1,2 +1,2 @@
 #ignore WSL file extensions
-*.identifier
+**/*Zone.Identifier
