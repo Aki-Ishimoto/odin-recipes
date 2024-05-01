@@ -4,6 +4,7 @@
     width: max-content;
     border: 2px #000000;
     background: antiquewhite;
-    padding: 8px auto;
+    padding: 8px;
     margin: auto auto;
+    align-items: center;
 }
